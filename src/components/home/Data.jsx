@@ -57,9 +57,9 @@ const Data = () => {
       </h1>
       <h3 className="home__subtitle">Software Developer💻💻</h3>
       <p className="home__description">
-        I'm very passionate and dedicated to my work, with 4 years experience as
-        a fullstack developer. I have acquired the skills to make your project a
-        success.
+        A team player with knowledge of JavaScript frameworks and prior
+        experience in the service industry. Calm under pressure, quick learner
+        with the goal of customer satisfaction.
       </p>
       <a href="#contact" className="button button--flex">
         Say Hello
