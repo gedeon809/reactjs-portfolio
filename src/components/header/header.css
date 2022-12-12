@@ -39,7 +39,7 @@
 /* Active links */
 .active-link,
 .nav__link:hover {
-  color: var(--title-color-dark);
+  color: rgba(24, 213, 246, 0.265);
 }
 /*=============== BREAKPOINTS ===============*/
 /* For medium devices */
@@ -96,7 +96,12 @@
     display: block;
   }
 }
+/* Change background header */
+
 /* For small devices */
+.scroll-header {
+  box-shadow: 0 -1px 4px rgba(0, 0, 0, 0.15);
+}
 @media screen and (max-width: 350px) {
   .nav__menu {
     padding: 2rem 0.25rem 4rem;
